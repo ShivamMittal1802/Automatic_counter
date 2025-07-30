@@ -1,3 +1,7 @@
+Please don't focus much on styling, I practise the concept and functionality mainly, where my focus is mainly on writting scalable, modular code
+
+https://github.com/user-attachments/assets/587b0ac9-ea24-4c89-9276-74d57307231b
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
